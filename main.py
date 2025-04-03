@@ -5,8 +5,8 @@ RECEIVER_MOBILE_NO = "1234567890"
 
 api_key = "b99fd8ce96859cdaef5562dfa1e16e3a"
 OWM_endpoint = "https://api.openweathermap.org/data/2.5/forecast"
-MY_LAT = 42.331429
-MY_LON = -83.045753
+MY_LAT = 28.632429
+MY_LON = 77.218788
 
 account_sid = "AC39001723e555612bd6724d5e93707806"
 auth_token = "d37b5691a11b2d8bbefd99e2264e73b3"
